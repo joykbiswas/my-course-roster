@@ -4,15 +4,15 @@
         "img": "https://i.ibb.co/LQCmBKj/Python-programming.png",
         "title": "Introduction to Python Programming",
         "description": "Learn the fundamentals of Python programming, including variables, data types, and control structures.",
-        "price": 49.99,
-        "credit": 3
+        "price": 49,
+        "credit": 7
       },
       {
         "id": 2,
         "img": "https://i.ibb.co/GcsFbNv/html-css-js.jpg",
         "title": "Web Development with HTML, CSS, and JavaScript",
         "description": "Build responsive websites using HTML, CSS, and JavaScript. Includes hands-on projects.",
-        "price": 79.99,
+        "price": 79,
         "credit": 4
       },
       {
@@ -20,15 +20,15 @@
         "img": "https://i.ibb.co/Xtvhxy9/java.jpg",
         "title": "Java Programming Masterclass",
         "description": "Become a Java expert with advanced topics like multithreading, design patterns, and database connectivity.",
-        "price": 89.99,
-        "credit": 5
+        "price": 89,
+        "credit": 9
       },
       {
         "id": 4,
         "img": "https://i.ibb.co/BsqpzKR/machine-ler.jpg",
         "title": "Machine Learning Fundamentals",
         "description": "Explore the world of machine learning with Python and scikit-learn. Includes hands-on exercises.",
-        "price": 69.99,
+        "price": 69,
         "credit": 4
       },
       {
@@ -36,7 +36,7 @@
         "img": "https://i.ibb.co/Tq6XVZT/react.png",
         "title": "React.js for Front-End Development",
         "description": "Learn to build interactive user interfaces with React.js. Includes state management and Redux.",
-        "price": 59.99,
+        "price": 59,
         "credit": 3
       },
       {
@@ -44,15 +44,15 @@
         "img": "https://i.ibb.co/37LqLZr/Rectangle-3.png",
         "title": "Introduction to Data Structures and Algorithms",
         "description": "Explore essential data structures and algorithms used in software development.",
-        "price": 59.99,
-        "credit": 3
+        "price": 59,
+        "credit": 5
       },
       {
         "id": 7,
         "img": "https://i.ibb.co/TBtBr2d/devops.png",
         "title": "DevOps Fundamentals",
         "description": "Learn DevOps principles and practices for efficient software development and deployment.",
-        "price": 69.99,
+        "price": 69,
         "credit": 3
       }
       
